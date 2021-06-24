@@ -1,0 +1,23 @@
+.outerDiv {
+    width: 800px;
+    display: table;
+    padding: 20px;
+}
+
+.innerDiv {
+    width: 200px;
+    margin: 20px;
+    display: table-cell;
+    padding: 20px;
+}
+
+.centerText {
+    text-align: center;
+}
+
+.hospCard {
+    padding: 10px;
+    margin: 10px;
+}
+
+
